@@ -5,57 +5,41 @@
 ![Focus](https://img.shields.io/badge/focus-AI%20%7C%20ML%20%7C%20Systems-blue)
 ![Content](https://img.shields.io/badge/content-educational-orange)
 
-Welcome to the official repository of the YouTube channel:
+> 📚 An open-source knowledge system for understanding modern technology — from first principles.
+
+---
+
+## 🎥 Channel
+
 👉 https://www.youtube.com/@TheAlgorithmicAge-vna
 
----
-
-## 🧠 About
-
-**The Algorithmic Age** is a documentary-style technology initiative focused on making complex systems understandable.
-
-We explore:
-
-* Artificial Intelligence & Large Language Models (LLMs)
-* Machine Learning & Deep Learning from first principles
-* Cybersecurity, privacy, and digital risk
-* Modern software, cloud, and internet infrastructure
-* The societal and ethical impact of technology
-
-**No hype. No jargon. Just clarity.**
+Documentary-style deep dives into AI, systems, and the technologies shaping the future.
 
 ---
 
-## 🎯 What This Repository Is
+## 🧠 What This Project Is
 
-This repository is not just a companion to the channel —
-it is an attempt to build an **open, structured knowledge base for modern technology**.
+This is not just a YouTube companion repository.
+
+It is an attempt to build a **structured, evolving knowledge base** for:
+
+* Artificial Intelligence
+* Machine Learning & Deep Learning
+* Cybersecurity & Digital Risk
+* Software, Cloud & Internet Infrastructure
+* The future of technology and society
 
 Think of it as:
 
-> 📚 An open-source curriculum for the Algorithmic Age
-
----
-
-## 🧱 Structure
-
-```bash
-curriculum/        → Structured learning paths (core)
-concepts/          → Atomic explanations of key ideas
-videos/            → Video index (lightweight)
-research/          → References & sources
-visuals/           → Diagrams & assets
-code-examples/     → Practical implementations
-shorts/            → Short-form content index
-ideas/             → Future topics
-community/         → Discussions & contributions
-```
+> 🧭 A map of the Algorithmic Age
+> 📚 A curriculum for self-learners
+> 🧱 A system for understanding complexity
 
 ---
 
 ## 🎓 Curriculum
 
-The repository is organized into major domains:
+The repository is organized into **core domains**, each designed as a learning path:
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning (Foundations & Failure Modes)
@@ -67,15 +51,47 @@ The repository is organized into major domains:
 * 🌐 Data & Internet Infrastructure
 * 🔐 Cybersecurity & Digital Risk
 
-Each section is designed to evolve into a **complete learning path**.
+→ Start here: `curriculum/index.md`
 
 ---
 
-## 🚀 Philosophy
+## 🧱 Repository Structure
 
-> Technology should be understood, not mystified.
+```bash
+curriculum/        → Structured learning system (core)
+concepts/          → Atomic explanations of key ideas
+videos/            → Indexed video references
+research/          → Sources & references
+visuals/           → Diagrams & assets
+code-examples/     → Practical implementations
+shorts/            → Short-form content index
+ideas/             → Future topics
+community/         → Discussions & contributions
+```
+
+---
+
+## 🧠 Philosophy
+
+> Technology should be understood — not mystified.
 > Systems should be explained from first principles.
 > Clarity is more valuable than hype.
+
+---
+
+## 🚀 Why This Exists
+
+Modern technology is:
+
+* Fragmented
+* Overcomplicated
+* Often poorly explained
+
+This project aims to:
+
+* Simplify without oversimplifying
+* Connect concepts across domains
+* Build deep, transferable understanding
 
 ---
 
@@ -87,17 +103,22 @@ You can contribute by:
 
 * Suggesting topics
 * Improving explanations
-* Adding resources
+* Adding high-quality resources
 * Sharing code examples
+
+See `CONTRIBUTING.md` for guidelines.
 
 ---
 
 ## 🛣️ Roadmap
 
-* Structured learning paths for each domain
-* Interactive demos and visual explanations
-* Open-source educational tools
-* Community-driven expansions
+* Structured learning paths across all domains
+* Deep-dive concept breakdowns
+* Visual explainers and diagrams
+* Practical code examples
+* Community-driven expansion
+
+See `ROADMAP.md` for details.
 
 ---
 
@@ -109,13 +130,13 @@ You can contribute by:
 
 ## 🪪 License
 
-This project is licensed under the MIT License unless stated otherwise.
+MIT License — free to use, modify, and distribute with attribution.
 
 ---
 
 ## 🧭 Long-Term Vision
 
-To build one of the most clear, structured, and accessible
+To build one of the most **clear, structured, and accessible**
 knowledge systems for understanding modern technology.
 
 ---
@@ -124,5 +145,6 @@ knowledge systems for understanding modern technology.
 
 Artificial Intelligence, Machine Learning, Deep Learning, LLM, Generative AI, AI Agents, Cybersecurity, Cloud Architecture, Data Infrastructure, Computer Vision, Technology Education, AI Explained, Future Technology
 
+---
 
 **Built for curious minds.**
