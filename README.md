@@ -63,6 +63,7 @@ concepts/          → Atomic explanations of key ideas
 channel trailer/   → Channel trailer
 demo Video/        → Demo long format video (16:9 format)
 demo Short/        → Demo short (9:16 format)
+community/         → Discussions & contributions
 ```
 
 ---
