@@ -60,13 +60,9 @@ The repository is organized into **core domains**, each designed as a learning p
 ```bash
 curriculum/        → Structured learning system (core)
 concepts/          → Atomic explanations of key ideas
-videos/            → Indexed video references
-research/          → Sources & references
-visuals/           → Diagrams & assets
-code-examples/     → Practical implementations
-shorts/            → Short-form content index
-ideas/             → Future topics
-community/         → Discussions & contributions
+channel trailer/   → Channel trailer
+demo Video/        → Demo long format video (16:9 format)
+demo Short/        → Demo short (9:16 format)
 ```
 
 ---
