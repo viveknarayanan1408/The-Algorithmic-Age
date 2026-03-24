@@ -1,5 +1,10 @@
 # 🎬 The Algorithmic Age
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Focus](https://img.shields.io/badge/focus-AI%20%7C%20ML%20%7C%20Systems-blue)
+![Content](https://img.shields.io/badge/content-educational-orange)
+
 Welcome to the official repository of the YouTube channel:
 👉 https://www.youtube.com/@TheAlgorithmicAge-vna
 
@@ -114,5 +119,10 @@ To build one of the most clear, structured, and accessible
 knowledge systems for understanding modern technology.
 
 ---
+
+## 🔎 Keywords
+
+Artificial Intelligence, Machine Learning, Deep Learning, LLM, Generative AI, AI Agents, Cybersecurity, Cloud Architecture, Data Infrastructure, Computer Vision, Technology Education, AI Explained, Future Technology
+
 
 **Built for curious minds.**
